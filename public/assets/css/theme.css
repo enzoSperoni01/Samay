@@ -18197,8 +18197,6 @@ label {
   transform: translateY(-50%);
 }
 
-/*-----------------------------------------------
-|   User Styles
------------------------------------------------*/
-
-/*# sourceMappingURL=theme.css.map */
+.img-logo__samay {
+  width: 7.3rem;
+}
