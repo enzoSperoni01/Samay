@@ -18200,3 +18200,13 @@ label {
 .img-logo__samay {
   width: 7.3rem;
 }
+
+@media screen and (max-width: 768px) {
+  .title_smile {
+    font-size: 4rem !important;
+  }
+  .p_home { font-size: 1rem !important; }
+}
+
+.title_smile { font-size: 8rem; }
+.p_home { font-size: 1.4rem; }
